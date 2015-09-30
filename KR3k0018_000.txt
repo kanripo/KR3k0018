@@ -1,5 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+TITLE: 古今姓氏書辯證
-#+DATE: 2015-08-24 23:29:59.341918
-#+PROPERTY: ID KR3k0018
-#+PROPERTY: BASEEDITION WYG    
